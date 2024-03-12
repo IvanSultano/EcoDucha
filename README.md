@@ -8,8 +8,7 @@
 
 ##### 3 MÉTODOS
 
-##### 4 Resultado
-
+##### 4 RESULTADO
 ----------------------------------------------------------------------
 
 *1 PROPOSTA E PROPÓSITOS DO PROJETO*
@@ -87,10 +86,41 @@ para o usuário, as primeiras telas são de carregamento do sistema (Fig. 3),
 academia ou clube, após colocar a senha corretamente irá iniciar a contagem 
 dos litros (Fig. 7), assim que pressionado o botão de stop informara que o 
 banho foi pausado (Fig. 8) e por ultimo caso o sensor não identifique presença 
-ou atinja a 45 litros o sistema encerra (Fig. 9).</h5>
+ou atinja a 45 litros o sistema encerra (Fig. 9).
 
-![This is an image](https://github.com/IvanSultano/EcoDucha/blob/main/Inicializando.png) ![This is an image](https://github.com/IvanSultano/EcoDucha/blob/main/Carregando.png)
+![This is an image](https://github.com/IvanSultano/EcoDucha/blob/main/Iniciando.png) ![This is an image](https://github.com/IvanSultano/EcoDucha/blob/main/Carregando.png) ![This is an image](https://github.com/IvanSultano/EcoDucha/blob/main/EcoDucha.png) ![This is an image](https://github.com/IvanSultano/EcoDucha/blob/main/Senha.png) ![This is an image](https://github.com/IvanSultano/EcoDucha/blob/main/Consumo.png) ![This is an image](https://github.com/IvanSultano/EcoDucha/blob/main/Pausado.png) ![This is an image](https://github.com/IvanSultano/EcoDucha/blob/main/Encerrado.png)
 
+Utilizamos também um teclado numérico (Fig. 10) para que o usuário 
+coloque o sua Senha.
+
+![This is an image](https://github.com/IvanSultano/EcoDucha/blob/main/Teclado.png)
+
+O potenciômetro (Fig.11) utilizaremos para regular a luminosidade do 
+LCD.
+
+![This is an image](https://github.com/IvanSultano/EcoDucha/blob/main/Potenciômetro.png)
+
+O sensor de presença (Fig. 12) identificará se o usuário está dentro do 
+box utilizando a ducha, caso o sensor não identifique movimentação no período 
+de 10 segundos o Eco Ducha irá encerrar.
+
+![This is an image](https://github.com/IvanSultano/EcoDucha/blob/main/Sensor.png)
+
+O Botão (Fig. 13) terá a utilidade para pausar o banho a qualquer 
+momento, possibilitando que o usuário economize a quantia de água utiliza na 
+hora de se ensaboar.
+
+![This is an image](https://github.com/IvanSultano/EcoDucha/blob/main/Botão.png)
+
+O Micro servo (Fig. 14) utilizaremos para liberar e fechar a corrente de 
+água.</h5>
+
+![This is an image](https://github.com/IvanSultano/EcoDucha/blob/main/MicroServo.png)
+<br><br>
+
+*4 RESULTADO*
+
+![This is an image](https://github.com/IvanSultano/EcoDucha/blob/main/Resultado.png)
 
 
 
