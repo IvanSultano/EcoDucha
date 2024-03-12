@@ -11,7 +11,7 @@
 ##### 4 RESULTADO
 ----------------------------------------------------------------------
 
-<a href="https://github.com/IvanSultano/EcoDucha/blob/main/EcoDucha.c"> *Codigo do projeto*</a>
+<h3><a href="https://github.com/IvanSultano/EcoDucha/blob/main/EcoDucha.c"> Codigo do projeto </a></h3>
 
 *1 PROPOSTA E PROPÓSITOS DO PROJETO*
 
