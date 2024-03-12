@@ -11,6 +11,8 @@
 ##### 4 RESULTADO
 ----------------------------------------------------------------------
 
+<a href="https://github.com/IvanSultano/EcoDucha/blob/main/EcoDucha.c"> *Codigo do projeto*</a>
+
 *1 PROPOSTA E PROPÓSITOS DO PROJETO*
 
 <h5> A proposta do projeto traz como princípio a redução de consumo de 
